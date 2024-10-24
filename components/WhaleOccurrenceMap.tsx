@@ -8,7 +8,7 @@ const baseLongitude = -82.381725616;
 const endLongitude = 92.779928270;
 const mapWidthDegrees = endLongitude - baseLongitude;
 
-const imageUrl = "https://gcdnb.pbrd.co/images/ccAnajFEAGRY.png";
+const imageUrl = "https://ik.imagekit.io/w3joxx5pvz/WhaleOccurrence.png";
 
 function getXYfromLatLon(lat: number, lon: number, baseLongitude: number, mapWidthDegrees: number, mapWidthPixels: number, mapHeightPixels: number) {
   const longitudeFactor = mapWidthDegrees / mapWidthPixels;

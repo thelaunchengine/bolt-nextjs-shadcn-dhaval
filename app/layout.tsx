@@ -3,8 +3,8 @@ import 'leaflet/dist/leaflet.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'AI-driven Map App',
-  description: 'An interactive map application with AI features',
+  title: 'Whale Occurence Map',
+  description: 'Whale Occurence Map',
 }
 
 export default function RootLayout({
